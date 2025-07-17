@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
                             colors = TopAppBarDefaults.topAppBarColors(
                                 containerColor = MaterialTheme.colorScheme.primaryContainer,
                                 titleContentColor = MaterialTheme.colorScheme.primary,
-                            ), title = { Text(text = "Practice App") })
+                            ), title = { Text(text = "Counter App") })
 
                     },
 
